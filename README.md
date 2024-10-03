@@ -50,12 +50,12 @@ In the ever-evolving e-commerce landscape, staying ahead requires insightful dat
 ### 🌟 Getting Started
 To explore this project, follow these steps:
 
-1- Clone the Repository:
+- **Clone the Repository:**
 git clone https://github.com/yourusername/ecommerce-sales-insights.git
 
-2- Open the Excel File: Start by reviewing the sales data and analysis in the Excel workbook.
+- **Open the Excel File:** Start by reviewing the sales data and analysis in the Excel workbook.
 
-3- Launch Power BI: Open the Power BI dashboard to interact with visualizations.
+- **Launch Power BI:** Open the Power BI dashboard to interact with visualizations.
 
 ### 👥 Contributing
 Contributions are welcome! If you have suggestions for improvements or would like to collaborate, please fork the repository and submit a pull request.
