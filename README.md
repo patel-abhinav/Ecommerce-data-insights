@@ -68,4 +68,4 @@ Detailed documentation is available in the repository, including:
 - Insights derived from the data
   
 ### 📝 License
-This project is licensed under the MIT License. See the LISENCE file for more details.
+This project is licensed under the MIT License. See the [MIT License](LISENCE) file for more details.
